@@ -1,0 +1,52 @@
+
+.loginbox1{
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+}
+
+input[type="text"].inputcssusername{
+    border-radius: 10px !important;
+    border: 0.5px solid #707070 !important;
+    width: 100% !important;
+    background: url(../img/icon/user1.png) no-repeat scroll 7px 7px !important;
+    background-position: left !important;
+    background-position-x: 12px !important;
+    background-size: 20px 20px !important;
+    padding-left: 40px !important;
+    background-color: #e7e7e7 !important;
+}
+input[type="password"].inputcsspass{
+    border-radius: 10px !important;
+    border: 0.5px solid #707070 !important;
+    width: 100% !important;
+    background: url(../img/icon/key.png) no-repeat scroll 7px 7px !important;
+    background-position: left !important;
+    background-position-x: 12px !important;
+    background-size: 20px 20px !important;
+    padding-left: 40px !important;
+    background-color: #e7e7e7 !important;
+}
+.submitcsss{
+    background-color: #82e88f !important;
+    border: 0.5px solid #7b7b7b !important;
+    border-radius: 10px !important;
+    height: 34px !important;
+    width: 110px !important;
+    text-shadow: none !important;
+    float: right;
+}
+.responsive_img_logo2{
+    width: 100%;
+    margin-left: -15px;
+    height: 100%;
+}
+.invalid_error{
+    background-color: red;
+    margin: 10px 0px;
+    text-align: center;
+    padding: 5px 0px;
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+}
